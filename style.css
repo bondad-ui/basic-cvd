@@ -715,13 +715,17 @@ margin-bottom: 4rem;
     font-size: 5rem;
     text-align: center;
     font-size: 4rem;
+    margin-top: -15rem;
   }
   .water .water__text p {
     text-align: justify;
+    font-size: 1;
+    margin: 2%;
   }
   .water img {
-    width: 25rem;
+    width: 23rem;
     margin: 6rem;
+    padding-bottom: 0rem;
   }
 } 
 
